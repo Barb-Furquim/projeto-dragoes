@@ -1,3 +1,3 @@
 Projeto - Dragões 🐲
 
-Um pequeno projeto para treinar JavaScript, css e HTML.
+Um pequeno projeto para treinar JavaScript, CSS e HTML.
